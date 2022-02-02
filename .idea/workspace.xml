@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272ef886-0cbf-4fdc-bbb7-626d4650679d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TP2/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2/modules/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2/modules/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP2/modules/ui.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP1/sauce.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP1/sauce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/modules/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +48,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Azflow\Desktop\intelij\TP JS\TP2" />
       <recent name="C:\Users\Azflow\Desktop\intelij\TP1\TP1" />
     </key>
   </component>
@@ -75,7 +81,7 @@
       <workItem from="1643793522919" duration="570000" />
       <workItem from="1643794437960" duration="106000" />
       <workItem from="1643794592447" duration="16000" />
-      <workItem from="1643794672198" duration="175000" />
+      <workItem from="1643794672198" duration="3908000" />
     </task>
     <servers />
   </component>
