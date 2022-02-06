@@ -1,5 +1,6 @@
 import {app} from "./app.js";
 
 window.addEventListener("load", function(event) {
-    app.init(prods);
+    let app = new app();
+    app.init();
 });
