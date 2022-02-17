@@ -1,6 +1,9 @@
 import {app} from "./app.js";
 
+
+let a = new app();
+
 window.addEventListener("load", function(event) {
-    let app = new app();
-    app.init();
+    console.log("main");
+    a.init();
 });
