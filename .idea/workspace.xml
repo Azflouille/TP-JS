@@ -35,6 +35,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="24SzOZBNIRqkwGKt1nhBe1A4vzR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
@@ -90,6 +94,9 @@
       <workItem from="1644397455200" duration="6561000" />
       <workItem from="1644411916198" duration="246000" />
       <workItem from="1644413366649" duration="3520000" />
+      <workItem from="1645535533037" duration="2702000" />
+      <workItem from="1645780955173" duration="1687000" />
+      <workItem from="1645878462183" duration="214000" />
     </task>
     <servers />
   </component>
@@ -106,6 +113,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

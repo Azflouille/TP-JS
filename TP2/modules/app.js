@@ -8,9 +8,11 @@ export class app {
     constructor() {
         this.ui = new ui();
         this.products = new products();
-        this.products.ajoutTab(new product("aled", 10, "autisme"))
-        this.products.ajoutTab(new product("Aled2", 20, "autisme2"))
-        this.products.ajoutTab(new product("aled3", 30, "autisme3"))
+        this.products.ajoutTab(new product("UnParaplui", 8, "c waterproof"))
+        this.products.ajoutTab(new product("UnParasoleil", 12, "c soleilproof"))
+        this.products.ajoutTab(new product("Glaudel", 1, "il est pas cher"))
+        this.products.ajoutTab(new product("ifon13", 1200, "pigeon"))
+        this.products.ajoutTab(new product("gifi", 9, "evoidéondujéni"))
         this.products2 = new products();
     }
 
