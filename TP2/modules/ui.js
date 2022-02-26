@@ -14,8 +14,10 @@ export class ui {
         let container2 = document.createElement("div");
         container2.className = "photo";
 
-        let span = document.createElement("span");
-        span.className = "mdi mdi-camera";
+        let span = document.createElement("img");
+        span.src = `${produit.img}`;
+        span.height = "250"
+        span.width = "250"
 
         let a = document.createElement("a");
         a.className = "product-add2cart";

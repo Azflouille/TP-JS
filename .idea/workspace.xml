@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272ef886-0cbf-4fdc-bbb7-626d4650679d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TP2/modules/cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/index2.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2/modules/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/modules/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/modules/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/modules/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2/modules/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/modules/product.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TP2/modules/ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/TP2/modules/ui.js" afterDir="false" />
     </list>
@@ -97,6 +94,7 @@
       <workItem from="1645535533037" duration="2702000" />
       <workItem from="1645780955173" duration="1687000" />
       <workItem from="1645878462183" duration="214000" />
+      <workItem from="1645880686541" duration="3600000" />
     </task>
     <servers />
   </component>
@@ -113,5 +111,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

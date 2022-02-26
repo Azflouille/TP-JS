@@ -29,11 +29,12 @@ export class products {
 
 export class product {
 
-    constructor(r, p, d) {
+    constructor(r, p, d, i) {
         this.ref = r;
         this.price = p;
         this.description = d;
         this.qtt = 1;
+        this.img = i;
     }
 
     ajoutQtt() {
